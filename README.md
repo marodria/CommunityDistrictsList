@@ -1,6 +1,24 @@
 # CommunityDistrictsList
 | boro | name | borocd | neighborhoods | data source|
 | --- | --- | --- | --- | --- |
+| Brooklyn | Community Board 1 | 301 | Flushing Avenue, Williamsburg, Greenpoint, Northside, and Southside |http://www.nyc.gov/brooklyncb1|
+| Brooklyn | Community Board 2 | 302 | Brooklyn Heights, Fulton Mall, Boerum Hill, Fort Greene, Brooklyn Navy Yard, Fulton Ferry, and Clinton Hill |https://www1.nyc.gov/site/brooklyncb2/index.page|
+| Brooklyn | Community Board 3 | 303 | Bedford-Stuyvesant, Stuyvesant Heights, and Ocean Hill |http://www1.nyc.gov/site/brooklyncb3/index.page|
+| Brooklyn | Community Board 4 | 304 | Bushwick |http://www1.nyc.gov/site/brooklyncb4/index.page|
+| Brooklyn | Community Board 5 | 305 | East New York, Cypress Hills, Highland Park, New Lots, City Line, Starrett City, and Ridgewood |http://www.brooklyncb5.org/|
+| Brooklyn | Community Board 6 | 306 | Red Hook, Carroll Gardens, Park Slope, Gowanus, and Cobble Hill |http://www1.nyc.gov/site/brooklyncb6/index.page|
+| Brooklyn | Community Board 7 | 307 | Sunset Park and Windsor Terrace |http://www1.nyc.gov/site/brooklyncb7/index.page|
+| Brooklyn | Community Board 8 | 308 | Crown Heights, Prospect Heights, and Weeksville |http://www.brooklyncb8.org/|
+| Brooklyn | Community Board 9 | 309 | Crown Heights, Prospect Lefferts Gardens, and Wingate |https://cbbrooklyn.cityofnewyork.us/cb9/|
+| Brooklyn | Community Board 10 | 310 | Bay Ridge, Dyker Heights, and Fort Hamilton |https://cbbrooklyn.cityofnewyork.us/cb10/|
+| Brooklyn | Community Board 11 | 311 | Bath Beach, Gravesend, Mapleton, and Bensonhurst|http://www.brooklyncb11.org/|
+| Brooklyn | Community Board 12 | 312 | Boro Park, Kensington, Ocean Parkway, and Midwood|http://www.brooklyncb12.org/|
+| Brooklyn | Community Board 13 | 313 | Coney Island, Brighton Beach, Bensonhurst, Gravesend, and Seagate|http://www1.nyc.gov/site/brooklyncb13/index.page|
+| Brooklyn | Community Board 14 | 314 | Flatbush, Midwood, Kensington, and Ocean Parkway|http://www.cb14brooklyn.com/|
+| Brooklyn | Community Board 15 | 315 | Sheepshead Bay, Manhattan Beach, Kings Bay, Gerritsen Beach, Kings Highway, East Gravesend, Madison, Homecrest, and Plum Beach |http://www1.nyc.gov/site/brooklyncb15/index.page|
+| Brooklyn | Community Board 16 | 316 | Brownsville and Ocean Hill |http://www1.nyc.gov/site/brooklyncb16/index.page|
+| Brooklyn | Community Board 17 | 317 | East Flatbush, Remsen Village, Farragut, Rugby, Erasmus and Ditmas Village |http://www.cb17brooklyn.org/|
+| Brooklyn | Community Board 18 | 318 | Canarsie, Bergen Beach, Mill Basin, Flatlands, Marine Park, Georgetown, and Mill Island|https://www1.nyc.gov/site/brooklyncb18/index.page|
 | Manhattan | Community Board 1 | 101 | Tribeca, Seaport/Civic Center, Financial District, Battery Park City |http://www1.nyc.gov/site/manhattancb1/index.page|
 | Manhattan | Community Board 2 | 102 | Greenwich Village, West Village, NoHo, SoHo, Lower East Side, Chinatown, Little Italy |https://cbmanhattan.cityofnewyork.us/cb2/|
 | Manhattan | Community Board 3 | 103 | Tompkins Square, East Village, Lower East Side, Chinatown, Two Bridges |http://www.nyc.gov/manhattancb3|
